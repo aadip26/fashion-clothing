@@ -10,9 +10,9 @@ export default function MenPage() {
       <section className="bg-gray-900 text-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h1 className="text-4xl md:text-5xl font-bold mb-4">Men's Fashion</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-4">Men&apos;s Fashion</h1>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-              Discover our collection of stylish and comfortable men's clothing. From casual wear to formal attire, we have everything you need.
+              Discover our collection of stylish and comfortable men&apos;s clothing. From casual wear to formal attire, we have everything you need.
             </p>
           </div>
         </div>
